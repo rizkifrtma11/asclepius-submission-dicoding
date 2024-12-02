@@ -1,2 +1,2 @@
 # asclepius-submission-dicoding
-![Aaclepius](asclepius.png)
+![Aaclepius](asclepius-web.png)
